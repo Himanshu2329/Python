@@ -1,0 +1,6 @@
+a=input("enter you name ")
+print(a)
+b=int(input("number daal "))
+c=int(input("number daal "))
+# c=input("number daal ")
+print(b+c)
