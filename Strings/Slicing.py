@@ -14,3 +14,8 @@ print(name[-5])
 
 print(name[0:4])
 print(name[-7:-1])
+
+
+# slicing with word spaces
+word="wonderFull"
+print(word[::2])
